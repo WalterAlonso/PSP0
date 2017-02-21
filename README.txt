@@ -18,7 +18,7 @@ Este programa fue realizado con JRE 1.7 en S.O 7.
 
 **************** Instrucciones de ejecucion ************************
 ** pull repo desde github.
-$git remote add origin https://github.com/WalterAlonso/PSP0.git
+$git clone https://github.com/WalterAlonso/PSP0.git
 
 ** Ejecucion maven
 
